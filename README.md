@@ -8,7 +8,7 @@
   <a href="mailto:rosas.juannn@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/juannnn-rosas">
+  <a href="[www.linkedin.com/in/juannnn-rosas](http://www.linkedin.com/in/juannnn-rosas)">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" />
   </a>
 </div>
@@ -48,9 +48,14 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
         <img width="12" />
+        <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+        <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
@@ -68,9 +73,16 @@
         <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
         <img width="12" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=codepen" height="60" alt="codepen logo" />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
         <img width="12" />
@@ -78,7 +90,13 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
         <img width="12" />
+        <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo" />
 </div>
 
 ###
