@@ -16,6 +16,18 @@
 <br>
 <br>
 
+
+<div align="center">
+  <h2>🔗 Check out my portfolio</h2>
+  <a href="https://portfolio-juannnrv.vercel.app/" target="_blank">
+  </a>
+  <p><strong>https://portfolio-juannnrv.vercel.app/</strong></p>
+</div>
+
+
+<br>
+<br>
+
 <div align="center" style="margin-top: 20px;">
   <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Colombian;+MERN+stack+developer+%F0%9F%92%BB;" alt="Typing SVG" />
@@ -98,15 +110,4 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo" />
 </div>
-
-###
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juannnrv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juannnrv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
 
